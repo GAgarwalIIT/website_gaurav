@@ -10,7 +10,13 @@
 	padding: 2em;
 	position: relative;
 }
- 
+@media screen and (max-width : 320px)
+{
+  body or yourdiv element
+  {
+    font:2em;
+  }
+} 
 .main-title{
 	color: #4e4e4e;
 	font-weight: 600;
